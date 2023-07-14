@@ -278,3 +278,44 @@ header{
     color: #fff;
     opacity: 0.8;
 }
+
+/* ===================== Consultation ========================= */
+.consultation{
+    position: relative;
+    top: 1850px;
+    margin-left: 180px;
+    width: 1188px;
+}
+
+.consultation .title-consultation{
+    width: 1040px;
+    height: 230px;
+    margin-bottom: 121px;
+    margin-left: 100px;
+}
+
+.consultation .image-consultation{
+    width: 609px;
+    height: 386px;
+}
+
+.consultation .sub-title{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 121px;
+}
+
+.consultation .sub-title .desc-consultation{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.consultation .consultation-content .btn-long{
+    margin-left: 360px;
+}
+
+.consultation .consultation-content .btn-long:hover{
+    opacity: 0.8;
+    color: #bebebe;
+}
