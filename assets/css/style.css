@@ -319,3 +319,60 @@ header{
     opacity: 0.8;
     color: #bebebe;
 }
+
+/* ====================== About us ========================= */
+.aboutus{
+    position: relative;
+    top: 2100px;
+    border-radius: 0px 42px 42px 0px;
+    background: #1E0C06;
+    width: 1325px;
+    height: 775px;
+    display: flex;
+}
+
+.aboutus .aboutus-content{
+    margin-left: 253px;
+}
+
+.aboutus .title-aboutus{
+    margin-top: 44px;
+    width: 501px;
+    height: 120px;
+}
+
+.aboutus .large-p{
+    width: 516px;
+    height: 294px;
+    margin-top: 67px;
+    color: #F5F5F5;
+    font-family: Inter;
+    font-size: 3rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 139.4%;
+}
+
+.aboutus .thumb-aboutus{
+    width: 337px;
+    height: 337px;
+    position: absolute;
+    left: 831px;
+    top: 177px;
+}
+
+.aboutus .thumb-aboutus-1{
+    width: 225px;
+    height: 225px;
+    position: absolute;
+    left: 1050px;
+    top: 61px;
+}
+
+.aboutus .thumb-aboutus-2{
+    width: 225px;
+    height: 225px;
+    position: absolute;
+    left: 1018px;
+    top: 539px;
+}
