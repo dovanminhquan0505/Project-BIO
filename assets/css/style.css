@@ -1,14 +1,14 @@
 /* ===================== Navigation bar ========================== */
-header{
+header {
     position: relative;
 }
 
-.banner-main{
+.banner-main {
     position: absolute;
     top: -50px;
 }
 
-.nav-bar{
+.nav-bar {
     position: absolute;
 }
 
@@ -38,30 +38,30 @@ header{
 }
 
 /* ================== Hero ================ */
-.hero{
+.hero {
     position: absolute;
     right: 0;
-    top:190px
+    top: 190px;
 }
 
-.hero .hero-content{
+.hero .hero-content {
     width: 1245px;
     height: 714px;
     border-radius: 43px 0px 0px 43px;
-    background: #1E0C06;
+    background: #1e0c06;
     display: flex;
     justify-content: space-between;
 }
 
-.hero .hero-content .column-hero{
+.hero .hero-content .column-hero {
     margin-top: 75px;
     margin-left: 50px;
 }
 
-.hero .hero-content .column-hero .title-hero{
+.hero .hero-content .column-hero .title-hero {
     width: 622px;
     height: 321px;
-    color: #F5F5F5;
+    color: #f5f5f5;
     font-family: KyivType Sans;
     font-size: 9rem;
     font-style: normal;
@@ -71,10 +71,10 @@ header{
     margin-bottom: 22px;
 }
 
-.hero .hero-content .column-hero .large-p{
+.hero .hero-content .column-hero .large-p {
     width: 333px;
     height: 78px;
-    color: #FFDBBB;
+    color: #ffdbbb;
     font-family: Inter;
     font-size: 3rem;
     font-style: normal;
@@ -83,8 +83,8 @@ header{
     margin-bottom: 58px;
 }
 
-.hero .hero-content .column-hero .btn-order{
-    color: #F5F5F5;
+.hero .hero-content .column-hero .btn-order {
+    color: #f5f5f5;
     font-family: Inter;
     font-size: 3rem;
     font-style: normal;
@@ -92,53 +92,53 @@ header{
     line-height: normal;
 }
 
-.hero .hero-content .jamp{
+.hero .hero-content .jamp {
     margin-top: 43px;
-    background: #F5F5F5;
+    background: #f5f5f5;
     width: 1px;
     height: 511px;
     position: absolute;
     right: 611px;
 }
 
-.hero .hero-content .thumb-banner{
+.hero .hero-content .thumb-banner {
     width: 205px;
     height: 205px;
     object-fit: cover;
 }
 
-.hero .hero-content .thumb-banner-1{
+.hero .hero-content .thumb-banner-1 {
     position: absolute;
     right: 115px;
     top: 43px;
 }
 
-.hero .hero-content .thumb-banner-2{
+.hero .hero-content .thumb-banner-2 {
     position: absolute;
     right: 360px;
     top: 316px;
 }
 
-.hero .hero-content .thumb-banner-3{
+.hero .hero-content .thumb-banner-3 {
     position: absolute;
     right: 115px;
     top: 452px;
 }
 
 /* ======================== Products ====================== */
-.products{
+.products {
     position: relative;
     top: 1346px;
 }
 
-.products .column-products .title-products{
+.products .column-products .title-products {
     margin-left: 243px;
     width: 746px;
     height: 230px;
     margin-bottom: 125px;
 }
 
-.products .column-products .list-products{
+.products .column-products .list-products {
     width: 277px;
     height: 600px;
     display: flex;
@@ -147,58 +147,58 @@ header{
     margin-left: 100px;
 }
 
-.products .column-products .thumb-products{
+.products .column-products .thumb-products {
     width: 250px;
     height: 250px;
 }
 
-.products .column-products .list-products:last-child{
+.products .column-products .list-products:last-child {
     margin-right: 127px;
 }
 
-.products .column-products .list-products-2{
+.products .column-products .list-products-2 {
     width: 281px;
     height: 456px;
 }
 
-.products .column-products .list-products-1{
+.products .column-products .list-products-1 {
     height: 620px;
 }
 
-.products .column-products .list{
+.products .column-products .list {
     display: flex;
     justify-content: space-between;
 }
 
-.products .column-products .list-products .name-products{
+.products .column-products .list-products .name-products {
     align-self: center;
     margin-top: 30px;
     margin-bottom: 30px;
     margin-right: 25px;
 }
 
-.products .column-products .list-products .name-products-1{
+.products .column-products .list-products .name-products-1 {
     margin-top: 22px;
     margin-bottom: 38px;
 }
 
-.products .column-products .list .functions{
+.products .column-products .list .functions {
     display: flex;
     align-items: center;
     width: 180px;
 }
 
-.products .column-products .list .functions .expensive{
+.products .column-products .list .functions .expensive {
     margin-left: -10px;
     margin-top: 26px;
 }
 
-.products .column-products .list .function-products{
+.products .column-products .list .function-products {
     margin-bottom: 28px;
 }
 
-.products .column-products .list .fa-check{
-    color: #FFC099;
+.products .column-products .list .fa-check {
+    color: #ffc099;
     width: 25px;
     height: 25px;
     align-self: flex-start;
@@ -206,8 +206,8 @@ header{
     margin-right: 10px;
 }
 
-.products .column-products .list .fa-xmark{
-    color: #FFC099;
+.products .column-products .list .fa-xmark {
+    color: #ffc099;
     width: 25px;
     height: 25px;
     align-self: flex-start;
@@ -216,29 +216,29 @@ header{
 }
 
 /* ==================== work ==================== */
-.work{
+.work {
     position: relative;
     top: 1619px;
 }
 
-.work .work-content .title-work{
+.work .work-content .title-work {
     margin-bottom: 121px;
     margin-left: 250px;
 }
 
-.work .work-content .images-work .thumb-work{
+.work .work-content .images-work .thumb-work {
     width: 1130px;
     height: 754px;
 }
 
-.work .work-content .list-images{
+.work .work-content .list-images {
     width: 1300px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.work .work-content .images-work{
+.work .work-content .images-work {
     width: 1440px;
     display: flex;
     flex-direction: column;
@@ -246,105 +246,276 @@ header{
     justify-content: space-between;
 }
 
-.work .work-content .fa-arrow-left{
+.work .work-content .fa-arrow-left {
     font-size: 5rem;
-    color: #A3B8D7;
+    color: #a3b8d7;
 }
 
-.work .work-content .fa-arrow-right{
+.work .work-content .fa-arrow-right {
     font-size: 5rem;
-    color: #A3B8D7;
+    color: #a3b8d7;
 }
 
-.work .work-content .dot-slide{
+.work .work-content .dot-slide {
     width: 150px;
     height: 30px;
     margin-top: 30px;
 }
 
-.work .work-content .fa-circle{
+.work .work-content .fa-circle {
     font-size: 1.5rem;
-    border: 3px solid #A3B8D7;
+    border: 3px solid #a3b8d7;
     border-radius: 999px;
     margin-right: 15px;
 }
 
-.work .work-content .fa-circle:nth-child(2){
+.work .work-content .fa-circle:nth-child(2) {
     color: #bebebe;
 }
 
-.work .work-content .fa-circle:hover{
+.work .work-content .fa-circle:hover {
     cursor: pointer;
     color: #fff;
     opacity: 0.8;
 }
 
 /* ===================== Consultation ========================= */
-.consultation{
+.consultation {
     position: relative;
     top: 1850px;
     margin-left: 180px;
     width: 1188px;
 }
 
-.consultation .title-consultation{
+.consultation .title-consultation {
     width: 1040px;
     height: 230px;
     margin-bottom: 121px;
     margin-left: 100px;
 }
 
-.consultation .image-consultation{
+.consultation .image-consultation {
     width: 609px;
     height: 386px;
 }
 
-.consultation .sub-title{
+.consultation .sub-title {
     display: flex;
     justify-content: space-between;
     margin-bottom: 121px;
 }
 
-.consultation .sub-title .desc-consultation{
+.consultation .sub-title .desc-consultation {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
 }
 
-.consultation .consultation-content .btn-long{
+.consultation .consultation-content .btn-long {
     margin-left: 360px;
 }
 
-.consultation .consultation-content .btn-long:hover{
+.consultation .consultation-content .btn-long:hover {
     opacity: 0.8;
     color: #bebebe;
 }
 
 /* ====================== About us ========================= */
-.aboutus{
+.aboutus {
     position: relative;
     top: 2100px;
     border-radius: 0px 42px 42px 0px;
-    background: #1E0C06;
+    background: #1e0c06;
     width: 1325px;
     height: 775px;
     display: flex;
+    box-shadow: 0px -6px 52px 0px rgba(245, 245, 245, 0.17);
 }
 
-.aboutus .aboutus-content{
+.aboutus .aboutus-content {
     margin-left: 253px;
 }
 
-.aboutus .title-aboutus{
+.aboutus .title-aboutus {
     margin-top: 44px;
     width: 501px;
     height: 120px;
 }
 
-.aboutus .large-p{
+.aboutus .large-p {
     width: 516px;
     height: 294px;
     margin-top: 67px;
+    color: #f5f5f5;
+    font-family: Inter;
+    font-size: 3rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 139.4%;
+}
+
+.aboutus .thumb-aboutus {
+    width: 337px;
+    height: 337px;
+    position: absolute;
+    left: 831px;
+    top: 177px;
+}
+
+.aboutus .thumb-aboutus-1 {
+    width: 225px;
+    height: 225px;
+    position: absolute;
+    left: 1050px;
+    top: 61px;
+}
+
+.aboutus .thumb-aboutus-2 {
+    width: 225px;
+    height: 225px;
+    position: absolute;
+    left: 1018px;
+    top: 539px;
+}
+
+/* ========================= Questions ======================= */
+.questions {
+    position: relative;
+    top: 2400px;
+    height: 780px;
+    overflow: hidden;
+}
+
+.questions .title-question {
+    margin-left: 500px;
+    width: 903px;
+    height: 120px;
+    margin-bottom: 45px;
+}
+
+.questions .thumb-questions{
+    width: 477px;
+    height: 482px;
+    position: absolute;
+    left: 800px;
+    top: 500px;
+}
+
+.questions .desc-question {
+    display: flex;
+}
+
+.questions .desc-question .box-questions {
+    width: 598px;
+    height: 555px;
+    margin-left: 102px;
+    margin-right: 64px;
+}
+
+.questions .desc-question .large-p{
+    width: 546px;
+    height: 126px;
+    text-align: right;
+    color: #F5F5F5;
+    text-align: right;
+    font-family: Inter;
+    font-size: 3rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 139.4%;
+}
+
+.questions .desc-question .box-questions .name {
+    width: 598px;
+    height: 77px;
+    border-radius: 42px;
+    border: 4px solid #728bad;
+    color: rgba(217, 217, 217, 0.51);
+    font-family: Inter;
+    font-size: 3rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 139.4%;
+    background: #222021;
+    padding-left: 47px;
+    margin-bottom: 23px;
+}
+
+.questions .desc-question .box-questions .telephone {
+    width: 598px;
+    height: 77px;
+    border-radius: 42px;
+    border: 4px solid #728bad;
+    color: rgba(217, 217, 217, 0.51);
+    font-family: Inter;
+    font-size: 3rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 139.4%;
+    background: #222021;
+    padding-left: 47px;
+    margin-bottom: 23px;
+}
+
+.questions .desc-question .box-questions .question-box {
+    width: 598px;
+    height: 257px;
+    border-radius: 42px;
+    border: 4px solid #728bad;
+    color: rgba(217, 217, 217, 0.51);
+    font-family: Inter;
+    font-size: 3rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 139.4%;
+    background: #222021;
+    padding-left: 47px;
+    margin-bottom: 40px;
+    padding-bottom: 180px;
+}
+
+/* ===================== Footer ==================== */
+.footer{
+    position: relative;
+    top: 2400px;
+    background: #222021;
+    box-shadow: 0px -6px 52px 0px rgba(245, 245, 245, 0.17);
+    height: 301px;
+}
+
+.footer .footer-content{
+    display: flex;
+    padding-left: 102px;
+    align-items: center;
+    justify-content: space-between;
+    width: 1300px;
+}
+
+.footer .info-logo{
+    display: flex;
+    flex-direction: column;
+}
+
+.footer .telephone-footer{
+    width: 355px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 45px;
+}
+
+.footer .address-footer{
+    width: 440px;
+    height: 84px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer .telephone{
+    width: 291px;
+    height: 42px;
     color: #F5F5F5;
     font-family: Inter;
     font-size: 3rem;
@@ -353,26 +524,40 @@ header{
     line-height: 139.4%;
 }
 
-.aboutus .thumb-aboutus{
-    width: 337px;
-    height: 337px;
-    position: absolute;
-    left: 831px;
-    top: 177px;
+.footer .logo-footer{
+    width: 197px;
+    margin-bottom: 58px;
+    margin-top: 80px;
 }
 
-.aboutus .thumb-aboutus-1{
-    width: 225px;
-    height: 225px;
-    position: absolute;
-    left: 1050px;
-    top: 61px;
+.footer .name-logo{
+    color: #F5F5F5;
+    font-family: Inter;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 139.4%;
 }
 
-.aboutus .thumb-aboutus-2{
-    width: 225px;
-    height: 225px;
-    position: absolute;
-    left: 1018px;
-    top: 539px;
+.footer .address-footer .large-p{
+    width: 300px;
+    height: 84px;
+    color: #F5F5F5;
+    font-family: Inter;
+    font-size: 3rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 139.4%;
+}
+
+.footer .telephone-footer .fa-phone-volume{
+    font-size: 3rem;
+    color: #bebebe;
+    margin-left: 20px;
+}
+
+.footer .address-footer .fa-location-dot{
+    font-size: 4rem;
+    color: #bebebe;
+    margin-left: 90px;
 }
